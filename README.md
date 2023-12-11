@@ -65,4 +65,4 @@ Age did not impact marketability much, however, drivers over the age of 25 who n
 <p>This data could be very beneficial for a marketing campaign in which the business intends to drive ads for a bar or coffee house in the area based on the driving habits of the population.  </p>
 ---
 
-## Find this notebook here: [Duck Duck Go](https://github.com/tzasquatch/tza-port/blob/main/prompt.ipynb)
+[Find this notebook here.](https://github.com/tzasquatch/tza-port/blob/main/prompt.ipynb)
